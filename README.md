@@ -16,7 +16,7 @@ Friendly in English/Chinese! <br>
 
 :e-mail:Email:1795979928@qq.com<br>Bilibili:SrCoyote<br>Minecraft ID:scottsun666 
 
-[![Sharako's github stats](https://github-readme-stats.vercel.app/api?username=ScottSun&show_icons=true)](https://github.com/sharakovia)
+[![Sharako's github stats](https://github-readme-stats.vercel.app/api?username=ScottSun&show_icons=true)](https://github.com/BobRocket)
 <!--
 **BobRocket/BobRocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
