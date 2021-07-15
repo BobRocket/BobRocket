@@ -12,7 +12,7 @@ I'm just a student who is interested in computer! <br>Friendly in English/Chines
 
 ## Contact me
 
-![OpenSUSE](https://img.shields.io/badge/Bilibili-FFA8BE?style=flat-square&logo=Bilibili&logoColor=FFFFFF&labelColor=FFA8BE)](https://space.bilibili.com/509457505)![Telegram](https://img.shields.io/badge/%40ScottSun-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/sunyuhan666)![OpenSUSE](https://img.shields.io/badge/CSDN-CF0000?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=CF0000)](https://blog.csdn.net/Sr_Coyote?spm=1000.2115.3001.5343)
+![Bilibili](https://img.shields.io/badge/Bilibili-FFA8BE?style=flat-square&logo=Bilibili&logoColor=FFFFFF&labelColor=FFA8BE)](https://space.bilibili.com/509457505)![Telegram](https://img.shields.io/badge/%40ScottSun-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/sunyuhan666)![CSDN](https://img.shields.io/badge/CSDN-CF0000?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=CF0000)](https://blog.csdn.net/Sr_Coyote?spm=1000.2115.3001.5343)
 <!--
 **BobRocket/BobRocket** is a ✨ _special_ ✨ repository because its  (this file) appears on your GitHub profile.
 
