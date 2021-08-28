@@ -3,7 +3,7 @@
 📫 I’m currently studying <br>
 🌱 I’m currently learning C++ and PHP<br>:e-mail:Email:1795979928@qq.com<br>
 
-[![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket)](https://github.com/BobRocket)
+[![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket)](https://github.com/BobRocket)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket)](https://github.com/BobRocket/github-readme-stats)
 
 ## Who I am?
