@@ -1,16 +1,21 @@
 # Hi there! 👋 <br>
 
 📫 I’m currently studying <br>
-🌱 I’m currently learning C++ and PHP<br>:e-mail:Email:1795979928@qq.com<br>
+🌱 I’m currently learning OIand C#<br>
 
 [![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket)](https://github.com/BobRocket)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket)](https://github.com/BobRocket/github-readme-stats)
 
 ## Who I am?
 
-Hello, nice to meet you here! My name is ScottSun/SrCoyote/Sunyuhan. <br>
+Hello,my name is ScottSun/SrCoyote/Sunyuhan. <br>
 I'm just a student who is interested in computer! <br>Friendly in English/Chinese! <br>
 
+## To connect me
+Email:1795979928@qq.com
+bilibili:UID:509457505
+CoolApk:绝对封号
+WebSite:scottsun.nov.ink
 <!--
 **BobRocket/BobRocket** is a ✨ _special_ ✨ repository because its  (this file) appears on your GitHub profile.
 
