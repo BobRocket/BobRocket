@@ -15,7 +15,7 @@ I'm just a student who is interested in computer! <br>Friendly in English/Chines
 Email:1795979928@qq.com<br>
 bilibili:UID:509457505<br>
 CoolApk:绝对封号<br>
-WebSite https:scottsun.nov.ink
+WebSite:scottsun.nov.ink
 <!--
 **BobRocket/BobRocket** is a ✨ _special_ ✨ repository because its  (this file) appears on your GitHub profile.
 
