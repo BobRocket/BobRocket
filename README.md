@@ -9,7 +9,7 @@ I'm just a student who is interested in computer! <br>Friendly in English/Chines
 👯 I’m creative in [MCPL](https://bobrocket.github.io/MCPL/)<br>
 
 [![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket&theme=flag-india)](https://github.com/BobRocket)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket&layout=compact&theme=flag-india)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket&layout=compact&theme=flag-india)
 
 
 ## To connect me
