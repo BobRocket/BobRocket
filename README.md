@@ -8,8 +8,9 @@ I'm just a student who is interested in computer! <br>Friendly in English/Chines
 🌱 I’m currently learning OI and C#<br>
 👯 I’m creative in [MCPL](https://bobrocket.github.io/MCPL/)<br>
 
-[![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket)](https://github.com/BobRocket)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket)](https://github.com/BobRocket/github-readme-stats)
+[![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket&theme=flag-india)](https://github.com/BobRocket)<br>
+[![Top Langs]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket&layout=compact&theme=flag-india)]
+)
 
 ## To connect me
 Email:1795979928@qq.com<br>
