@@ -6,14 +6,14 @@ Hello,my name is ScottSun/SrCoyote/Sunyuhan. <br>
 I'm just a student who is interested in computer! <br>Friendly in English/Chinese! <br>
 📫 I’m currently studying <br>
 🌱 I’m currently learning OI and C#<br>
-👯 I’m creative in [MCPL](BobRocket.github.io/MCPL)<br>
+👯 I’m creative in [MCPL](https://bobrocket.github.io/MCPL/)<br>
 
 [![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket)](https://github.com/BobRocket)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket)](https://github.com/BobRocket/github-readme-stats)
 
 ## To connect me
 Email:1795979928@qq.com<br>
-bilibili:UID:509457505<br>
+bilibili:[UID:509457505](https://space.bilibili.com/509457505)<br>
 CoolApk:绝对封号<br>
 WebSite:[scottsun.nov.ink](scottsun.nov.ink)
 <!--
