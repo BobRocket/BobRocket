@@ -1,18 +1,13 @@
 # Hi there! 👋 <br>
 
-## Who I am?
+## 个人简介
 
-Hello,my name is ScottSun/SrCoyote/Sunyuhan. <br>
-I'm just a student who is interested in computer! <br>Friendly in English/Chinese! <br>
-📫 I’m currently studying <br>
-🌱 I’m currently learning OI and C#<br>
-👯 I’m creative in [MCPL](https://bobrocket.github.io/MCPL/)<br>
-
+高一萌新，一只喜欢瞎搞的技术菜鸡，音游糊糊人（大部分项目因学业已弃坑）。
 [![BobRocket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobRocket&theme=flag-india)](https://github.com/BobRocket)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobRocket&layout=compact&theme=flag-india)
 
 
-## To connect me
+## 联系我
 Email:1795979928@qq.com<br>
 bilibili:[UID:509457505](https://space.bilibili.com/509457505)<br>
 CoolApk:绝对封号<br>
